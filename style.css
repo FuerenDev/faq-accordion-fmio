@@ -54,7 +54,7 @@ label {
     cursor: pointer;
 }
 label:hover {
-    color: hsl(292, 16%, 49%);
+    color: hsl(281, 83%, 54%);
 }
 .faq-row label {
   flex: 1;
